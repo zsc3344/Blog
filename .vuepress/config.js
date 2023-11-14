@@ -28,7 +28,7 @@ module.exports = {
         "icon": "reco-home"
       },
       {
-        "text": "时间轨迹",
+        "text": "时间穿梭",
         "link": "/timeline/",
         "icon": "reco-date"
       },
